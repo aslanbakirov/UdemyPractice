@@ -1,0 +1,10 @@
+/home/aslan/CLionProjects/UdemyTDD/CMakeFiles/GMock.dir
+/home/aslan/CLionProjects/UdemyTDD/CMakeFiles/rebuild_cache.dir
+/home/aslan/CLionProjects/UdemyTDD/CMakeFiles/tdd.dir
+/home/aslan/CLionProjects/UdemyTDD/CMakeFiles/edit_cache.dir
+/home/aslan/CLionProjects/UdemyTDD/src/CMakeFiles/rebuild_cache.dir
+/home/aslan/CLionProjects/UdemyTDD/src/CMakeFiles/edit_cache.dir
+/home/aslan/CLionProjects/UdemyTDD/src/CMakeFiles/math.dir
+/home/aslan/CLionProjects/UdemyTDD/program/CMakeFiles/rebuild_cache.dir
+/home/aslan/CLionProjects/UdemyTDD/program/CMakeFiles/edit_cache.dir
+/home/aslan/CLionProjects/UdemyTDD/program/CMakeFiles/hello.dir

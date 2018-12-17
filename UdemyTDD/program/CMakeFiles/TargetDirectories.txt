@@ -1,0 +1,3 @@
+/home/aslan/CLionProjects/UdemyTDD/program/CMakeFiles/rebuild_cache.dir
+/home/aslan/CLionProjects/UdemyTDD/program/CMakeFiles/edit_cache.dir
+/home/aslan/CLionProjects/UdemyTDD/program/CMakeFiles/hello.dir

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="UdemyIPC"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/aslan/CLionProjects/UdemyIPC"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/aslan/CLionProjects/UdemyIPC"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="queue-sender">
+				<Option output="/home/aslan/CLionProjects/UdemyIPC/queue-sender" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aslan/CLionProjects/UdemyIPC"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 queue-sender"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="queue-sender/fast">
+				<Option output="/home/aslan/CLionProjects/UdemyIPC/queue-sender" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aslan/CLionProjects/UdemyIPC"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 queue-sender/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="queue-receiver">
+				<Option output="/home/aslan/CLionProjects/UdemyIPC/queue-receiver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aslan/CLionProjects/UdemyIPC"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 queue-receiver"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="queue-receiver/fast">
+				<Option output="/home/aslan/CLionProjects/UdemyIPC/queue-receiver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aslan/CLionProjects/UdemyIPC"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 queue-receiver/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/aslan/CLionProjects/UdemyIPC"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shm_reader">
+				<Option output="/home/aslan/CLionProjects/UdemyIPC/shm_reader" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aslan/CLionProjects/UdemyIPC"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 shm_reader"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shm_reader/fast">
+				<Option output="/home/aslan/CLionProjects/UdemyIPC/shm_reader" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aslan/CLionProjects/UdemyIPC"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 shm_reader/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shm_writer">
+				<Option output="/home/aslan/CLionProjects/UdemyIPC/shm_writer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aslan/CLionProjects/UdemyIPC"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 shm_writer"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shm_writer/fast">
+				<Option output="/home/aslan/CLionProjects/UdemyIPC/shm_writer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aslan/CLionProjects/UdemyIPC"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 shm_writer/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyIPC/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/aslan/CLionProjects/UdemyIPC/msgqueue-receiver.c">
+			<Option target="queue-receiver"/>
+		</Unit>
+		<Unit filename="/home/aslan/CLionProjects/UdemyIPC/msgqueue-sender.c">
+			<Option target="queue-sender"/>
+		</Unit>
+		<Unit filename="/home/aslan/CLionProjects/UdemyIPC/shm_impl.c">
+			<Option target="shm_reader"/>
+			<Option target="shm_writer"/>
+		</Unit>
+		<Unit filename="/home/aslan/CLionProjects/UdemyIPC/shm_reader.c">
+			<Option target="shm_reader"/>
+		</Unit>
+		<Unit filename="/home/aslan/CLionProjects/UdemyIPC/shm_writer.c">
+			<Option target="shm_writer"/>
+		</Unit>
+		<Unit filename="/home/aslan/CLionProjects/UdemyIPC/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,4 @@
+/home/aslan/CLionProjects/UdemyHPC/CMakeFiles/rebuild_cache.dir
+/home/aslan/CLionProjects/UdemyHPC/CMakeFiles/edit_cache.dir
+/home/aslan/CLionProjects/UdemyHPC/CMakeFiles/promise.dir
+/home/aslan/CLionProjects/UdemyHPC/CMakeFiles/concurrency.dir

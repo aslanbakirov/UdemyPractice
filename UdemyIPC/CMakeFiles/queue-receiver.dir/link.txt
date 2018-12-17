@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/queue-receiver.dir/msgqueue-receiver.c.o  -o queue-receiver -lrt 

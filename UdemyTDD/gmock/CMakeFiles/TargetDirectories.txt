@@ -1,0 +1,16 @@
+/home/aslan/CLionProjects/UdemyTDD/gmock/CMakeFiles/install/strip.dir
+/home/aslan/CLionProjects/UdemyTDD/gmock/CMakeFiles/install/local.dir
+/home/aslan/CLionProjects/UdemyTDD/gmock/CMakeFiles/install.dir
+/home/aslan/CLionProjects/UdemyTDD/gmock/CMakeFiles/list_install_components.dir
+/home/aslan/CLionProjects/UdemyTDD/gmock/CMakeFiles/gmock_main.dir
+/home/aslan/CLionProjects/UdemyTDD/gmock/CMakeFiles/gmock.dir
+/home/aslan/CLionProjects/UdemyTDD/gmock/CMakeFiles/edit_cache.dir
+/home/aslan/CLionProjects/UdemyTDD/gmock/CMakeFiles/rebuild_cache.dir
+/home/aslan/CLionProjects/UdemyTDD/gmock/gtest/CMakeFiles/install/strip.dir
+/home/aslan/CLionProjects/UdemyTDD/gmock/gtest/CMakeFiles/install/local.dir
+/home/aslan/CLionProjects/UdemyTDD/gmock/gtest/CMakeFiles/install.dir
+/home/aslan/CLionProjects/UdemyTDD/gmock/gtest/CMakeFiles/list_install_components.dir
+/home/aslan/CLionProjects/UdemyTDD/gmock/gtest/CMakeFiles/gtest_main.dir
+/home/aslan/CLionProjects/UdemyTDD/gmock/gtest/CMakeFiles/edit_cache.dir
+/home/aslan/CLionProjects/UdemyTDD/gmock/gtest/CMakeFiles/gtest.dir
+/home/aslan/CLionProjects/UdemyTDD/gmock/gtest/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Wall   CMakeFiles/hello.dir/main.cpp.o  -o hello -lrt ../src/libmath.a 

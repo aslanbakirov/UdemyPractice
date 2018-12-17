@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aslan/CLionProjects/UdemyIPC/shm_impl.c
+stdio.h
+-
+memory.h
+-
+sys/shm.h
+-
+sys/mman.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+errno.h
+-
+
+/home/aslan/CLionProjects/UdemyIPC/shm_writer.c
+stdio.h
+-
+string.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/shm_reader.dir/shm_reader.c.o CMakeFiles/shm_reader.dir/shm_impl.c.o  -o shm_reader -lrt 

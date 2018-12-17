@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="UdemyTDD"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\share\;CMake Files\..\..\..\..\usr\share\cmake\;CMake Files\..\..\..\..\usr\share\cmake\GMock\;CMake Files\GMock-prefix\;CMake Files\GMock-prefix\tmp\;CMake Files\src\;CMake Files\program\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/aslan/CLionProjects/UdemyTDD"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GMock">
+				<Option working_dir="/home/aslan/CLionProjects/UdemyTDD"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 GMock"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/aslan/CLionProjects/UdemyTDD"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tdd">
+				<Option output="/home/aslan/CLionProjects/UdemyTDD/tdd" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aslan/CLionProjects/UdemyTDD"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/gtest"/>
+					<Add directory="/usr/src/googletest/googlemock/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 tdd"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tdd/fast">
+				<Option output="/home/aslan/CLionProjects/UdemyTDD/tdd" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aslan/CLionProjects/UdemyTDD"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/gtest"/>
+					<Add directory="/usr/src/googletest/googlemock/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 tdd/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/aslan/CLionProjects/UdemyTDD"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="math">
+				<Option output="/home/aslan/CLionProjects/UdemyTDD/src/libmath.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aslan/CLionProjects/UdemyTDD/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/gtest"/>
+					<Add directory="/usr/src/googletest/googlemock/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/src/Makefile&quot;  VERBOSE=1 math"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="math/fast">
+				<Option output="/home/aslan/CLionProjects/UdemyTDD/src/libmath.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aslan/CLionProjects/UdemyTDD/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/gtest"/>
+					<Add directory="/usr/src/googletest/googlemock/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/src/Makefile&quot;  VERBOSE=1 math/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello">
+				<Option output="/home/aslan/CLionProjects/UdemyTDD/program/hello" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aslan/CLionProjects/UdemyTDD/program"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/gtest"/>
+					<Add directory="/usr/src/googletest/googlemock/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/program/Makefile&quot;  VERBOSE=1 hello"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/program/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/program/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/program/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello/fast">
+				<Option output="/home/aslan/CLionProjects/UdemyTDD/program/hello" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aslan/CLionProjects/UdemyTDD/program"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/gtest"/>
+					<Add directory="/usr/src/googletest/googlemock/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/program/Makefile&quot;  VERBOSE=1 hello/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/program/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/program/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/aslan/CLionProjects/UdemyTDD/program/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/aslan/CLionProjects/UdemyTDD/program/main.cpp">
+			<Option target="hello"/>
+		</Unit>
+		<Unit filename="/home/aslan/CLionProjects/UdemyTDD/src/Math.cpp">
+			<Option target="math"/>
+		</Unit>
+		<Unit filename="/home/aslan/CLionProjects/UdemyTDD/src/Math.h">
+			<Option target="math"/>
+		</Unit>
+		<Unit filename="/home/aslan/CLionProjects/UdemyTDD/test/MathTest.cpp">
+			<Option target="tdd"/>
+		</Unit>
+		<Unit filename="/home/aslan/CLionProjects/UdemyTDD/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/aslan/CLionProjects/UdemyTDD/../../../../usr/share/cmake/GMock/GMockConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\share\cmake\GMock\"/>
+		</Unit>
+		<Unit filename="/home/aslan/CLionProjects/UdemyTDD/GMock-prefix/tmp/GMock-cfgcmd.txt.in">
+			<Option virtualFolder="CMake Files\GMock-prefix\tmp\"/>
+		</Unit>
+		<Unit filename="/home/aslan/CLionProjects/UdemyTDD/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="/home/aslan/CLionProjects/UdemyTDD/program/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\program\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

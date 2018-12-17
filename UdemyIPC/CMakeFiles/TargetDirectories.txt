@@ -1,0 +1,6 @@
+/home/aslan/CLionProjects/UdemyIPC/CMakeFiles/rebuild_cache.dir
+/home/aslan/CLionProjects/UdemyIPC/CMakeFiles/queue-sender.dir
+/home/aslan/CLionProjects/UdemyIPC/CMakeFiles/queue-receiver.dir
+/home/aslan/CLionProjects/UdemyIPC/CMakeFiles/edit_cache.dir
+/home/aslan/CLionProjects/UdemyIPC/CMakeFiles/shm_reader.dir
+/home/aslan/CLionProjects/UdemyIPC/CMakeFiles/shm_writer.dir

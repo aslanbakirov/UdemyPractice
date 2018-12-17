@@ -1,0 +1,13 @@
+# Target labels
+ GMock
+# Source files and their labels
+/home/aslan/CLionProjects/UdemyTDD/CMakeFiles/GMock
+/home/aslan/CLionProjects/UdemyTDD/CMakeFiles/GMock.rule
+/home/aslan/CLionProjects/UdemyTDD/CMakeFiles/GMock-complete.rule
+/home/aslan/CLionProjects/UdemyTDD/GMock-prefix/src/GMock-stamp/GMock-install.rule
+/home/aslan/CLionProjects/UdemyTDD/GMock-prefix/src/GMock-stamp/GMock-mkdir.rule
+/home/aslan/CLionProjects/UdemyTDD/GMock-prefix/src/GMock-stamp/GMock-download.rule
+/home/aslan/CLionProjects/UdemyTDD/GMock-prefix/src/GMock-stamp/GMock-update.rule
+/home/aslan/CLionProjects/UdemyTDD/GMock-prefix/src/GMock-stamp/GMock-patch.rule
+/home/aslan/CLionProjects/UdemyTDD/GMock-prefix/src/GMock-stamp/GMock-configure.rule
+/home/aslan/CLionProjects/UdemyTDD/GMock-prefix/src/GMock-stamp/GMock-build.rule

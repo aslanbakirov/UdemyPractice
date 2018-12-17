@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Wall   CMakeFiles/tdd.dir/test/MathTest.cpp.o  -o tdd -lrt -lpthread gmock/gtest/libgtest.a -lpthread 

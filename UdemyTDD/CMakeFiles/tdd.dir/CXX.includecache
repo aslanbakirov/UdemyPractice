@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aslan/CLionProjects/UdemyTDD/src/Math.cpp
+Math.h
+/home/aslan/CLionProjects/UdemyTDD/src/Math.h
+
+/home/aslan/CLionProjects/UdemyTDD/src/Math.h
+
+/home/aslan/CLionProjects/UdemyTDD/test/MathTest.cpp
+../src/Math.cpp
+/home/aslan/CLionProjects/UdemyTDD/src/Math.cpp
+gtest/gtest.h
+-
+

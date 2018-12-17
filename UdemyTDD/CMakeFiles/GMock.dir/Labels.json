@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aslan/CLionProjects/UdemyTDD/CMakeFiles/GMock"
+		},
+		{
+			"file" : "/home/aslan/CLionProjects/UdemyTDD/CMakeFiles/GMock.rule"
+		},
+		{
+			"file" : "/home/aslan/CLionProjects/UdemyTDD/CMakeFiles/GMock-complete.rule"
+		},
+		{
+			"file" : "/home/aslan/CLionProjects/UdemyTDD/GMock-prefix/src/GMock-stamp/GMock-install.rule"
+		},
+		{
+			"file" : "/home/aslan/CLionProjects/UdemyTDD/GMock-prefix/src/GMock-stamp/GMock-mkdir.rule"
+		},
+		{
+			"file" : "/home/aslan/CLionProjects/UdemyTDD/GMock-prefix/src/GMock-stamp/GMock-download.rule"
+		},
+		{
+			"file" : "/home/aslan/CLionProjects/UdemyTDD/GMock-prefix/src/GMock-stamp/GMock-update.rule"
+		},
+		{
+			"file" : "/home/aslan/CLionProjects/UdemyTDD/GMock-prefix/src/GMock-stamp/GMock-patch.rule"
+		},
+		{
+			"file" : "/home/aslan/CLionProjects/UdemyTDD/GMock-prefix/src/GMock-stamp/GMock-configure.rule"
+		},
+		{
+			"file" : "/home/aslan/CLionProjects/UdemyTDD/GMock-prefix/src/GMock-stamp/GMock-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"GMock"
+		],
+		"name" : "GMock"
+	}
+}

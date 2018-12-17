@@ -1,0 +1,12 @@
+//
+// Created by aslan on 25.11.18.
+//
+
+#ifndef UDEMYRPC_RPC_COMMON_H
+#define UDEMYRPC_RPC_COMMON_H
+
+#define MAX_RECV_SEND_RPC_BUFF_SIZE 2048
+#define RPC_SERVER_PORT 9000
+#define RPC_SERVER_IP "127.0.0.1"
+
+#endif //UDEMYRPC_RPC_COMMON_H
